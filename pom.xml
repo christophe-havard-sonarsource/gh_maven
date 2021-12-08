@@ -16,5 +16,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
+<properties>
+  <sonar.organization>christophe-havard-sonarsource</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
